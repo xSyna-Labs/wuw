@@ -2,9 +2,9 @@
   "name": "Rezeptliste",
   "short_name": "Rezepte",
   "description": "Bestand verwalten, Rezepte finden und Einkaufslisten smart erstellen – powered by Synaptic Foundation Model, 100 % lokal.",
-  "id": "/recipe-list/",
-  "start_url": "/recipe-list/",
-  "scope": "/recipe-list/",
+  "id": "https://xsyna-labs.github.io/wuw/1/recipe-list/",
+  "start_url": "https://xsyna-labs.github.io/wuw/1/recipe-list/",
+  "scope": "https://xsyna-labs.github.io/wuw/1/recipe-list/",
   "display": "standalone",
   "display_override": ["standalone", "minimal-ui"],
   "background_color": "#000000",
@@ -14,13 +14,13 @@
   "categories": ["food", "productivity", "utilities"],
   "icons": [
     {
-      "src": "/recipe-list-icon.svg",
+      "src": "https://xsyna-labs.github.io/wuw/1/recipe-list-icon.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any"
     },
     {
-      "src": "/recipe-list-icon.svg",
+      "src": "https://xsyna-labs.github.io/wuw/1/recipe-list-icon.svg",
       "sizes": "512x512",
       "type": "image/svg+xml",
       "purpose": "maskable"
@@ -31,13 +31,13 @@
       "name": "Bestand",
       "short_name": "Bestand",
       "description": "Vorrat direkt öffnen",
-      "url": "/recipe-list/?tab=bestand"
+      "url": "https://xsyna-labs.github.io/wuw/1/recipe-list/?tab=bestand"
     },
     {
       "name": "Einkaufsliste",
       "short_name": "Einkauf",
       "description": "Aktuelle Einkaufsliste öffnen",
-      "url": "/recipe-list/?tab=einkauf"
+      "url": "https://xsyna-labs.github.io/wuw/1/recipe-list/?tab=einkauf"
     }
   ],
   "related_applications": [],
