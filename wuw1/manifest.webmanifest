@@ -1,0 +1,45 @@
+{
+  "name": "Rezeptliste",
+  "short_name": "Rezepte",
+  "description": "Bestand verwalten, Rezepte finden und Einkaufslisten smart erstellen – powered by Synaptic Foundation Model, 100 % lokal.",
+  "id": "/recipe-list/",
+  "start_url": "/recipe-list/",
+  "scope": "/recipe-list/",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "any",
+  "lang": "de",
+  "categories": ["food", "productivity", "utilities"],
+  "icons": [
+    {
+      "src": "/recipe-list-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/recipe-list-icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Bestand",
+      "short_name": "Bestand",
+      "description": "Vorrat direkt öffnen",
+      "url": "/recipe-list/?tab=bestand"
+    },
+    {
+      "name": "Einkaufsliste",
+      "short_name": "Einkauf",
+      "description": "Aktuelle Einkaufsliste öffnen",
+      "url": "/recipe-list/?tab=einkauf"
+    }
+  ],
+  "related_applications": [],
+  "prefer_related_applications": false
+}
