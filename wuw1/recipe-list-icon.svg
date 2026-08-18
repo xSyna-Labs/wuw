@@ -1,0 +1,13 @@
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+  <rect width="128" height="128" rx="24" fill="#0A0A0A"/>
+  <g stroke="#A3E635" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <!-- Bowl -->
+    <path d="M28 70 Q28 100 64 100 Q100 100 100 70"/>
+    <path d="M28 70 Q28 56 64 56 Q100 56 100 70"/>
+    <!-- Steam -->
+    <path d="M48 44 Q44 36 50 28 Q56 20 50 12"/>
+    <path d="M64 44 Q60 36 66 28 Q72 20 66 12"/>
+    <path d="M80 44 Q76 36 82 28 Q88 20 82 12"/>
+  </g>
+  <circle cx="64" cy="84" r="4" fill="#A3E635"/>
+</svg>
