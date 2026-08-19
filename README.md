@@ -57,7 +57,7 @@ Schau in die jeweiligen Projekte, um aktuelle Tasks und Good First Issues zu fin
 | Projekt | Name / Thema | Status | Site |
 | :--- | :--- | :--- | :--- |
 | **WuW#1** | *Einkaufsapp* | ✅ ABGESCHLOSSEN | https://xsyna-labs.github.io/wuw/1 |
-| **WuW#2** | *Finanzen* | 🕛 vorbereiten | – |
+| **WuW#2** | *Office* | 🕛 vorbereiten | – |
 
 ### Informationen zum jeweiligen Projekt findest du in der Dokumentation.
 ---
